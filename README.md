@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @shreyas-dhakal, A Computer Engineer from Nepal.
-- 👀 I’m interested in exploring applications of AI Agents.
-- 🌱 I’m learning artificial intelligence, machine learning and any computer science related stuff.
+- 👋 Hi, I’m @shreyas-dhakal, a Master's student in AI/ML @ Adelaide Uni.
+- Interested in LLMs and MLOps.
 - 📫 Reach out to me at dhakalshreyas2@gmail.com or visit me at [shreyasdhakal.com.np](https://www.shreyasdhakal.com.np) .
 
 <!---
